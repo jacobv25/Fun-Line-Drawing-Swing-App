@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Fun Line Drawing Swing App:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Fun_Line_Drawing_Swing_App_jar</output-path>
+    <root id="archive" name="Fun Line Drawing Swing App.jar">
+      <element id="module-output" name="Fun Line Drawing Swing App" />
+    </root>
+  </artifact>
+</component>
